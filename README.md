@@ -1,1 +1,4 @@
 # STM32-F1-HAL
+//基于STM32F103C8T6 HAL库
+//引脚配置by STM32CUBE MX 
+//代码编写 by MDK
